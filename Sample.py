@@ -5,9 +5,10 @@ def greet(name):
 
 # Example usage
 if __name__ == "__main__":
-    name = "Alice"
+    name = "Alice2"
     print(greet(name))
-    # Output: Hello, Alice!
+   
     
     # Additional functionality can be added here
     print("This is a sample Python script.")
+ # Output: Hello, Alice2!
